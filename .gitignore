@@ -1,0 +1,7 @@
+database.sqlite
+uploads/
+reels/
+testimonials/
+videos/
+works/
+*.db
